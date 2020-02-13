@@ -1,5 +1,6 @@
 
-Scripts for trimming alignments and trees before running analysis of selection, as used in Nevado et al. (under review) "Adaptive evolution is common in rapid evolutionary radiations".  
+Scripts for trimming alignments and trees before running analysis of selection, as used in Nevado et al. (2019) "Adaptive evolution is common in rapid evolutionary radiations", Current Biology 29 (18): 3081-3086.
+Please cite our paper if you use these scripts in your work. 
 
 Input should be sequence (fasta) and tree (newick) files for each gene of interest, and it assumes the same set of species are sampled across genes (but not all species have to be present in all genes). Use at your own risk and carefully check your results, and if useful please cite the paper.
 
